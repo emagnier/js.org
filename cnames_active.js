@@ -2291,6 +2291,7 @@ var cnames_active = {
   "rocketact": "jdf2e.github.io/rocketact",
   "rockjins": "rockjins.github.io",
   "romanager": "imacodr.github.io/romanager",
+  "romcal": "romcal.github.io",
   "roger": "klopango.github.io/js-org",
   "roghib": "hosting.gitbook.com",
   "room": "atercerosb.github.io/roomHomepage",
